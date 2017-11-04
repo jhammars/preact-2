@@ -2,3 +2,5 @@ node_modules
 .DS_Store
 /build
 /*.log
+/functions/build/ssr-build
+/functions/node_modules
